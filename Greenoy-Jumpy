@@ -1,0 +1,16 @@
+Les explication by Franck !
+
+Explication by  Franck du Commit : La commande «Commit» permet de faire des sauvegarde du
+ code que l’on a codé au préalable pour y mettre un commentaire ou même juste pour savoir ce 
+ qu’il y avait a un instants T le modifier ou même pour le montrer a toute mon équipe ce qui
+ créera une nouvelle version nous pouvons en faire t-elle un historique.
+
+Explication by Franck du Git push : 	La commande «Git push» de confirmer le code et en
+ même temps sert à l’exécuté et mettre à jour un répertoire local avec les données d'un repository
+ distant.
+
+Explication by Franck du Git add -A : La commande «Git add -A» permet de supprimer , ajouté ,
+ modifier le mettre à jour l'index non seulement lorsque l'arbre de travail a un fichier
+ correspondant pathspec mais aussi où l'index.
+
+Explication by Franck du Git commit -m init : La commande «Git commit -m init» permet de...
